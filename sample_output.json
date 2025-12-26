@@ -1,0 +1,34 @@
+{
+  "company": "Notion",
+  "source": "g2",
+  "start_date": "2024-01-01",
+  "end_date": "2024-06-01",
+  "total_reviews": 3,
+  "reviews": [
+    {
+      "title": "Excellent tool for team collaboration",
+      "review_text": "Notion has transformed how our team organizes and collaborates. The flexibility to create custom databases and pages is unmatched.",
+      "review_date": "2024-03-15",
+      "reviewer": "Sarah Johnson",
+      "rating": "5",
+      "source": "g2"
+    },
+    {
+      "title": "Great for documentation",
+      "review_text": "We use Notion primarily for documentation. The markdown support and page linking make it perfect for our needs.",
+      "review_date": "2024-04-22",
+      "reviewer": "Michael Chen",
+      "rating": "4.5",
+      "source": "g2"
+    },
+    {
+      "title": "Could use better mobile app",
+      "review_text": "The desktop version is fantastic, but the mobile app needs improvement. Still, overall a solid product.",
+      "review_date": "2024-05-10",
+      "reviewer": "Emily Rodriguez",
+      "rating": "4",
+      "source": "g2"
+    }
+  ]
+}
+
